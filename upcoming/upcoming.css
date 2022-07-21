@@ -69,6 +69,10 @@ main{
 .fa-right-long{
     margin-left: 8px;
 }
+/*-------------
+          sec-section
+          ------------------ */
+
 .grid{
     display: grid;
     text-align: center;
