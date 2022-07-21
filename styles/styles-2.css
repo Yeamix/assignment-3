@@ -161,6 +161,10 @@ footer{
     color: white;
     padding: 50px;
 }
+.google{
+    color: white;
+    font-size: 40px;
+}
 hr{
     width: 800px;
 }
